@@ -1,3 +1,1 @@
-import a from "./a"
-import "./a.css"
-console.log(a)
+import "./main.css"
